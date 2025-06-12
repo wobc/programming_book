@@ -12,7 +12,7 @@ hero:
       link: /introduction
     - theme: alt
       text: View on GitHub
-      link: /api-examples
+      link: https://github.com/gonzalezgarcia/programmingCogNeuro_book
 
 # features:
 #   - title: Multi-language
