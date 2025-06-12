@@ -48,6 +48,64 @@ example
 ```
 :::
 
+---
+
+
+<script setup>
+import { VPTeamMembers } from 'vitepress/theme'
+
+const members = [
+  {
+    avatar: 'https://icon-library.com/images/member-icon/member-icon-4.jpg',
+    name: 'John Doe',
+    title: 'Contributor',
+    links: [
+      { icon: 'minutemailer', link: 'mailto:test@ugr.es' },
+      { icon: 'github', link: 'https://github.com/yyx990803' },
+      { icon: 'bluesky', link: 'test' }
+    ]
+  },
+   {
+    avatar: 'https://icon-library.com/images/member-icon/member-icon-4.jpg',
+    name: 'John Doe',
+    title: 'Contributor',
+    links: [
+      { icon: 'minutemailer', link: 'mailto:test@ugr.es' },
+      { icon: 'github', link: 'https://github.com/yyx990803' },
+      { icon: 'bluesky', link: 'test' }
+    ]
+  },
+   {
+    avatar: 'https://icon-library.com/images/member-icon/member-icon-4.jpg',
+    name: 'John Doe',
+    title: 'Contributor',
+    links: [
+      { icon: 'minutemailer', link: 'mailto:test@ugr.es' },
+      { icon: 'github', link: 'https://github.com/yyx990803' },
+      { icon: 'bluesky', link: 'test' }
+    ]
+  },
+   {
+    avatar: 'https://icon-library.com/images/member-icon/member-icon-4.jpg',
+    name: 'John Doe',
+    title: 'Contributor',
+    links: [
+      { icon: 'minutemailer', link: 'mailto:test@ugr.es' },
+      { icon: 'github', link: 'https://github.com/yyx990803' },
+      { icon: 'bluesky', link: 'test' }
+    ]
+  },
+  
+  
+]
+</script>
+
+### Who are we?
+
+Say hello to our awesome team.
+
+<VPTeamMembers size="small" :members />
+
 ::: tip Want to contribute?
 
 We known programming can be confusing. We will try to cover a wide range of important concepts in a clear and concise way, so you can focus on what matters most. However, this book is a collaborative effort, and we welcome contributions from the community. If you have suggestions or improvements, [please let us know](https://github.com/gonzalezgarcia/programmingCogNeuro_book/issues/new/choose)!
