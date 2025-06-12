@@ -4,10 +4,12 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "Intro to Programming",
   description: "A Practical Introduction",
+  base: '/programmingCogNeuro_book/',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
-    base: '/programmingCogNeuro_book/',
+    
     siteTitle: false,
+    
     nav: [
       { text: 'Home', link: '/' },
       {
