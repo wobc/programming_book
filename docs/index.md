@@ -3,7 +3,7 @@
 layout: home
 lastUpdated: true
 hero:
-  name: "Programming for Psychological Science"
+  name: "Programming in Psychological Science"
   text: "A Practical Introduction"
   tagline: #My great project tagline
   actions:
