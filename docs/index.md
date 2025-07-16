@@ -24,6 +24,7 @@ hero:
 
 ---
 
+This guide is **not** a full programming course or a replacement for formal tutorials. Instead, it’s a **starting point**: a collection of reflections, examples, and recommendations from the perspective of researchers in psychology and cognitive neuroscience. It aims to help you get your bearings and make smart decisions as you begin learning to code — not to teach you everything from scratch.
 
 This book is designed to equip psychology and cognitive neuroscience students with essential programming skills. Rather than focusing on a single programming language, this book will introduce you to the most popular languages in Psychology and Cognitive Neuroscience - Python, R, and MATLAB:
 
