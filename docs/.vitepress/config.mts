@@ -4,14 +4,14 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "Intro to Programming",
   description: "A Practical Introduction",
-  base: '/programmingCogNeuro_book/',
+  base: '/programming_book/',
   lastUpdated: true,
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     
     siteTitle: "PsychProgramming",
     editLink: {
-      pattern: 'https://github.com/gonzalezgarcia/programmingCogNeuro_book/edit/main/docs/:path'
+      pattern: 'https://github.com/gonzalezgarcia/programming_book/edit/main/docs/:path'
     },
     
     nav: [
