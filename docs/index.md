@@ -12,7 +12,7 @@ hero:
       link: /introduction
     - theme: alt
       text: View on GitHub
-      link: https://github.com/gonzalezgarcia/programmingCogNeuro_book
+      link: https://github.com/gonzalezgarcia/programming_book
 
 # features:
 #   - title: Multi-language
@@ -178,7 +178,7 @@ The list below is sorted alphabetically.
 
 ::: warning Want to contribute?
 
-We known programming can be confusing. We will try to cover a wide range of important concepts in a clear and concise way, so you can focus on what matters most. However, this book is a collaborative effort, and we welcome contributions from the community. If you have suggestions or improvements, [please let us know](https://github.com/gonzalezgarcia/programmingCogNeuro_book/issues/new/choose)!
+We known programming can be confusing. We will try to cover a wide range of important concepts in a clear and concise way, so you can focus on what matters most. However, this book is a collaborative effort, and we welcome contributions from the community. If you have suggestions or improvements, [please let us know](https://github.com/gonzalezgarcia/programming_book/issues/new/choose)!
 
 :::
 

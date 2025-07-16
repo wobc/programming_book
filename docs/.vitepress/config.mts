@@ -43,7 +43,7 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/gonzalezgarcia/programmingCogNeuro_book' }
+      { icon: 'github', link: 'https://github.com/gonzalezgarcia/programming_book' }
     ],
     
    search: {
