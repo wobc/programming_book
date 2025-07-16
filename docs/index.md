@@ -48,9 +48,15 @@ example
 ```
 :::
 
-<br><br>
+::: warning 🛠️ Work in Progress!
+This document is a living resource — it's continuously evolving as tools, best practices, and our own understanding of programming in cognitive neuroscience grow. It’s not a finished product, and it’s not meant to be consumed as one. You may find sections that are still incomplete or that will change over time.
 
-## Table of contents
+**Want to contribute?** We welcome contributions from the community. If you have suggestions or improvements, [please let us know](https://github.com/gonzalezgarcia/programming_book/issues/new/choose)!
+:::
+
+
+
+### Table of contents
 
 - [**Introduction**](/introduction.html)
 - [**Foundations: programming in Psychological science**](/foundations.html)
@@ -176,11 +182,6 @@ We are a group of postdoctoral researchers at the University of Granada, Spain, 
 The list below is sorted alphabetically.
 <VPTeamMembers size="small" :members />
 
-::: warning Want to contribute?
-
-We known programming can be confusing. We will try to cover a wide range of important concepts in a clear and concise way, so you can focus on what matters most. However, this book is a collaborative effort, and we welcome contributions from the community. If you have suggestions or improvements, [please let us know](https://github.com/gonzalezgarcia/programming_book/issues/new/choose)!
-
-:::
 
 ::: details License information
 
