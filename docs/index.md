@@ -12,7 +12,7 @@ hero:
       link: /introduction
     - theme: alt
       text: View on GitHub
-      link: https://github.com/gonzalezgarcia/programming_book
+      link: https://github.com/wobc/programming_book
 
 # features:
 #   - title: Multi-language
@@ -51,7 +51,7 @@ example
 ::: warning 🛠️ Work in Progress!
 This document is a living resource — it's continuously evolving as tools, best practices, and our own understanding of programming in cognitive neuroscience grow. It’s not a finished product, and it’s not meant to be consumed as one. You may find sections that are still incomplete or that will change over time.
 
-**Want to contribute?** We welcome contributions from the community. If you have suggestions or improvements, [please let us know](https://github.com/gonzalezgarcia/programming_book/issues/new/choose)!
+**Want to contribute?** We welcome contributions from the community. If you have suggestions or improvements, [please let us know](https://github.com/wobc/programming_book/issues/new/choose)!
 :::
 
 

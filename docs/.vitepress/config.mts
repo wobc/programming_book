@@ -11,7 +11,7 @@ export default defineConfig({
     
     siteTitle: "PsychProgramming",
     editLink: {
-      pattern: 'https://github.com/gonzalezgarcia/programming_book/edit/main/docs/:path'
+      pattern: 'https://github.com/wobc/programming_book/edit/main/docs/:path'
     },
     
     nav: [
@@ -43,7 +43,7 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/gonzalezgarcia/programming_book' }
+      { icon: 'github', link: 'https://github.com/wobc/programming_book' }
     ],
     
    search: {
