@@ -110,7 +110,7 @@ const members = [
     ]
   },
    {
-    avatar: 'https://lh3.googleusercontent.com/OQT-3lGXwZX0IBW-ABNQX2ThjyrmSwJPqJD7fExtvQRpAOBB208ypgoLnfnwVtjvNsUqx7JFngKzvUpwhNUx25J4G-eb8-jlG6xwpKnGDjGJmDGNpa2oclFvLAGfLLJF_gYNwAE8bAYcPVHiGorYaOuf1xTGWiFufIsHnmBnS0mul1gor9_UKA=w1280',
+    avatar: 'juanpic.jpg',
     name: 'Juan Linde-Domingo',
     //title: `Contributor`,
     
