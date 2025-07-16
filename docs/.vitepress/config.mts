@@ -2,8 +2,8 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "Intro to Programming",
-  description: "A Practical Introduction",
+  title: "Programming in psychological science",
+  description: "A practical introduction",
   base: '/programming_book/',
   lastUpdated: true,
   themeConfig: {
