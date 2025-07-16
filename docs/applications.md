@@ -275,7 +275,7 @@ for (folder in folders_to_create) {
 :::
 
 ::: warning Additional resources
-To get to know more about naming conventions and folder structures, take a look at the [Good practices chapter](/good-practices.html) together with these additional resources. 
+To get to know more about naming conventions and folder structures, take a look at the [Good practices chapter](/goodpractices.html) together with these additional resources. 
 - The Brain Imaging Data Structure: https://bids.neuroimaging.io/index.html
 - Some example of Research Folder Structure Standard: https://gin-tonic.netlify.app/standard/ 
 :::

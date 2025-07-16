@@ -108,7 +108,7 @@ conda install jupyterlab numpy pandas matplotlib seaborn scikit-learn
 
 **Step 4:** Install and set up Visual Studio Code
 
-1. Download [VSCode]((https://code.visualstudio.com)).
+1. Download [VSCode](https://code.visualstudio.com).
 
 2. Install the **Python extension** (it will suggest this the first time you open a `.py` file).
 
