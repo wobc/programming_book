@@ -78,7 +78,7 @@ const members = [
     ]
   },
    {
-    avatar: 'https://cdn.bsky.app/img/avatar/plain/did:plc:fnjsz4ry6xabhfk2vuslm45e/bafkreidaagvwv7gzq2t4nvlqv7t6bg5z4z5qc4sqevrsahvcpqlbxlply4@jpeg',
+    avatar: 'foto_luis.jpg',
     name: 'Luis Ciria',
     title: 'Contributor',
     links: [
