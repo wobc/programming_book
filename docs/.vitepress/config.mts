@@ -33,6 +33,11 @@ export default defineConfig({
         items: [
           { text: 'Introduction', link: '/introduction' },
           { text: 'Foundations: programming in Psychological science', link: '/foundations' },
+          { text: 'Choosing the right tools', link: '/tools' },
+          { text: 'Core concepts', link: '/coreconcepts' },
+          { text: 'Hands-on applications', link: '/applications' },
+          { text: 'Good practices', link: '/goodpractices' },
+          { text: "What's next?", link: '/next' },
         ]
       }
     ],

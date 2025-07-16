@@ -26,10 +26,52 @@ So, why should you learn to code? We hope the more philosophical reasons we list
 
 ## Common fears and misconceptions about programming:
 
-- Address anxieties about complexity and mathematical prerequisites.  
-- Emphasize that coding is a learnable skill, not an innate talent.
+Many psychology and cognitive neuroscience students might hesitate to learn programming due to certain anxieties and misconceptions. Below, we review some of them:
 
-## Overview of what the book/project will cover:
+### Programming is complex
 
-- Outline the structure and key topics.  
-- Set realistic expectations for the learning journey.
+One common fear about programming is its perceived complexity. It’s true that coding can become complex, especially when tackling sophisticated tasks or advanced analyses. However, the vast majority of coding tasks psychologists will encounter are fundamentally logical and structured, with clear patterns and manageable complexity. Coding languages used commonly in psychology, such as Python or R, are intentionally designed to be user-friendly and straightforward. For instance, let's assume you have zero previous experience with programming. Can you figure out what the following code does?
+
+::: code-group
+
+```r
+participant <- 5
+
+if (participant > 3) {
+  print("Participant is greater than 3")
+} else {
+  print("Participant is not greater than 3")
+}
+```
+
+```python
+participant = 5
+
+if participant > 3:
+    print("Participant is greater than 3")
+else:
+    print("Participant is not greater than 3")
+    
+```
+
+```matlab
+participant = 5;
+
+if participant > 3
+    disp("Participant is greater than 3")
+else
+    disp("Participant is not greater than 3")
+end
+```
+:::
+
+Just like learning any new language, there is an initial learning curve. But remember, complexity in coding builds incrementally. You start with basic building blocks, gradually learning to combine them into larger structures. Step-by-step, the seemingly complicated will become intuitive. Just try to trust the process!
+
+### Coding as a Learnable Skill
+
+Perhaps the most significant misconception is the idea that coding is an innate talent rather than a learnable skill. This belief might discourage those who see themselves as "non-technical" or who think they lack an innate aptitude for programming.
+
+Research and practical teaching experiences clearly demonstrate that **coding is entirely learnable**, just like writing, reading, or any other academic skill. Successful coding does not rely on innate talent but on consistent practice, curiosity, and openness to making mistakes and learning from them. Many successful programmers—including psychologists—started without any "natural" inclination toward technology.
+
+In summary, while anxieties around learning to code can seem daunting, these fears reveal themselves as unfounded once you start to get your hands dirty: coding is a practical, achievable, and empowering skill.
+
